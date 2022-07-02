@@ -1,8 +1,12 @@
-﻿using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework;
 
 namespace OpenXA
 {
+    
+    ///<summary>
+    ///Useless
+    ///</summary>
 public class BoxCollider {
     public float Left;
     public float Right;
